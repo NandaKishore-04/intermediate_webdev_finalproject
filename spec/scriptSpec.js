@@ -1,4 +1,4 @@
-const { calculateSimpleInterest, calculateTotalPayableAmount } = require('../script.js');
+const { calculateSimpleInterest, calculateTotalPayableAmount } = require('../src/script.js');
 
 describe("Interest Rate Calculator Tests", () => {
 
